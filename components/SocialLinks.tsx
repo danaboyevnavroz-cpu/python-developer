@@ -27,7 +27,7 @@ const SocialLinks: React.FC = () => {
     { label: 'GitHub', icon: <Github size={20} />, href: 'https://github.com/danaboyevnavroz-cpu' },
     { label: 'LinkedIn', icon: <Linkedin size={20} />, href: '#' },
     { label: 'Portfolio', icon: <Briefcase size={20} />, href: '#' },
-    { label: 'Telegram', icon: <Send size={20} />, href: '#' },
+    { label: 'Telegram', icon: <Send size={20} />, href: 'https://t.me/navruz_2203' },
     { label: 'Email', icon: <Mail size={20} />, href: 'mailto:navrozbek@example.com' },
   ];
 
