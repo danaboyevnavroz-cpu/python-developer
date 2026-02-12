@@ -24,7 +24,7 @@ const SocialLink: React.FC<LinkProps> = ({ href, icon, label }) => (
 
 const SocialLinks: React.FC = () => {
   const links = [
-    { label: 'GitHub', icon: <Github size={20} />, href: '#' },
+    { label: 'GitHub', icon: <Github size={20} />, href: 'https://github.com/danaboyev-navroz-cpu' },
     { label: 'LinkedIn', icon: <Linkedin size={20} />, href: '#' },
     { label: 'Portfolio', icon: <Briefcase size={20} />, href: '#' },
     { label: 'Telegram', icon: <Send size={20} />, href: '#' },
